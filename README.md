@@ -1,6 +1,7 @@
 # Custom Byte Pair Encoding (BPE) Implementation
 
 This repository contains a custom implementation of Byte Pair Encoding (BPE), a data compression technique used in natural language processing (NLP) and other fields. BPE is commonly used for subword tokenization, which breaks down words into smaller units based on their frequency in a corpus.
+By : Nitin Kapoor
 
 ## Overview
 
@@ -19,4 +20,4 @@ To use the custom BPE implementation, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/custom-bpe.git
+   git clone git@github.com:nitkap01/byte_pair_tokenizer.git
